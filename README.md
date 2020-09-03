@@ -1,6 +1,6 @@
 # 基于DeepCubeA的魔方复原网站
 本程序基于[DeepCubeA](https://codeocean.com/capsule/5723040/tree/v1)<br>
-具体内容详见[实验报告report.pdf]()<br>
+具体内容详见[实验报告report.pdf](https://github.com/JakeMustangLi/Cube/blob/master/report.pdf)<br>
 本系统因基于DeepCubeA，所以使用Python Web开发，这里选择了Flask+uWSGI+Nginx作为服务端，前端使用HTML+CSS+JavaScript开发。<br>
 
 --------------------------------
